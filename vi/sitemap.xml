@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gendosoft.github.io/categories/</loc>
+    <loc>https://gendosoft.github.io/vi/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gendosoft.github.io/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,13 +18,13 @@
                 hreflang="vi"
                 href="https://gendosoft.github.io/vi/categories/"
                 />
+  </url><url>
+    <loc>https://gendosoft.github.io/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gendosoft.github.io/categories/"
+                href="https://gendosoft.github.io/"
                 />
-  </url><url>
-    <loc>https://gendosoft.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,13 +35,13 @@
                 hreflang="vi"
                 href="https://gendosoft.github.io/vi/"
                 />
+  </url><url>
+    <loc>https://gendosoft.github.io/vi/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gendosoft.github.io/"
+                href="https://gendosoft.github.io/privacy/"
                 />
-  </url><url>
-    <loc>https://gendosoft.github.io/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -47,13 +52,13 @@
                 hreflang="vi"
                 href="https://gendosoft.github.io/vi/privacy/"
                 />
+  </url><url>
+    <loc>https://gendosoft.github.io/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gendosoft.github.io/privacy/"
+                href="https://gendosoft.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://gendosoft.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -63,11 +68,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://gendosoft.github.io/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gendosoft.github.io/tags/"
                 />
   </url>
 </urlset>

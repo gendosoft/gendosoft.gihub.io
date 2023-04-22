@@ -1,0 +1,4 @@
+# Our security address
+Contact: mailto:gendosoft@gmail.com
+# Our repo
+Security policy: https://github.com/gendosoft/gendosoft.github.io.git

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GENDO Studio</title>
-    <link>https://gendosoft.github.io/categories/</link>
+    <link>https://gendosoft.github.io/vi/categories/</link>
     <description>Recent content in Categories on GENDO Studio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://gendosoft.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://gendosoft.github.io/vi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
