@@ -10,11 +10,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://gendosoft.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="vi"
                 href="https://gendosoft.github.io/vi/categories/"
                 />
@@ -24,11 +19,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gendosoft.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gendosoft.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,11 +34,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://gendosoft.github.io/fr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="vi"
                 href="https://gendosoft.github.io/vi/privacy/"
                 />
@@ -58,11 +43,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gendosoft.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gendosoft.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
